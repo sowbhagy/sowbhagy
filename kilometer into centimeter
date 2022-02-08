@@ -1,0 +1,5 @@
+#kilometer into centimeter
+a=int(input('enter length in kilometer'))
+b=a*1000000
+
+print('length in centimeter',b)
